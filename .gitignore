@@ -1,6 +1,15 @@
+# IDE settings
 /.c9
 /.idea
+
+# Libraries
 /node_modules
 /typings
+
+# lite-server configs
+bs-config.json
+bs-config.js
+
+# compiled js files
 /app/*.js
 /app/*.js.map
